@@ -1,0 +1,15 @@
+## content of selenium app for conecting to the standalone_chrome
+
+from selenium import webdriver
+
+driver = webdriver.Remote(
+    command_executor='http://localhost:4444/wd/hub',
+    desired_capabilities={'browserName': 'chrome'}
+)
+
+docker run -d -p 4444:4444 selenium/standalone-chrome
+
+
+----------------------------------------------------------------------
+
+## 
