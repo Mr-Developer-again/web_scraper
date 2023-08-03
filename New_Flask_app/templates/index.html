@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Enter Title</title>
+  <style>
+    body {
+      background-color: #f2f2f2;
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+
+    .container {
+      margin: 50px auto;
+      max-width: 500px;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+    h1 {
+      color: #007bff;
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
+
+    label {
+      display: block;
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+
+    input[type="text"] {
+      font-size: 24px;
+      padding: 10px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      width: 100%;
+      margin-bottom: 20px;
+      box-sizing: border-box;
+    }
+
+    input[type="submit"] {
+      color: #fff;
+      background-color: #007bff;
+      border-radius: 5px;
+      padding: 10px 20px;
+      border: none;
+      font-size: 18px;
+      transition: background-color 0.2s ease-in-out;
+    }
+
+    input[type="submit"]:hover {
+      background-color: #0062cc;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Enter Title</h1>
+    <form action="{{ url_for('get_title')}} ", method="GET">
+      <label for="title">Title:</label>
+      <input type="text" name="send_title">
+      <input type="submit" value="Submit">
+    </form>
+  </div>
+</body>
+</html>
