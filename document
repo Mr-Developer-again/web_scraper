@@ -12,4 +12,15 @@ docker run -d -p 4444:4444 selenium/standalone-chrome
 
 ----------------------------------------------------------------------
 
-## 
+## To Take SingIn button:
+singIn = driver.find_element(By.ClassName,"js-signInButton")
+
+##To Take SingIn by Email Button:
+SingInEmail = driver.find_element(By.ClassName,"js-emailButton")
+
+##To Take Email Input:
+InputEmail = driver.find_element(By.Id,"email")
+InputEmail.SendKeys("YourEmail")
+
+## To Take Email Send Button:
+driver.find_element(By.ClassName,"button--overlayConfirm").click()
