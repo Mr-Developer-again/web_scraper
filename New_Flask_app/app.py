@@ -49,7 +49,7 @@ def get_title():
     return render_template('send_eamil.html')
             
 
-@app.route('/send_eamil')
+@app.route('/send_email')
 def send_email():
     send_email_for_login()
     return redirect(url_for('ok'))
@@ -76,8 +76,10 @@ def creaing_files():
                 
             url = val[1]
             file_name = val[0]
+            
+            driver.execute_script("setTimeout(6000);window.stop();")
             driver.get(url)
-
+            
             # Find the element and get its text content
             element = driver.find_element(By.TAG_NAME , "article")
             text = element.text
@@ -91,12 +93,4 @@ def creaing_files():
 if __name__ == '__main__':
     app.run(host='127.0.0.1', port=5000, debug=True)
 
-def day_orderer(num):
-    if len(str(num)) < 2:
-        return "0"+str(num)
-    return num
-
-def month_roderer(month):
-    val = int(month) - 1
-    val = "0" + str(val)
 

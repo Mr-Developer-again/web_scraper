@@ -10,7 +10,7 @@ def send_email_for_login():
         email.click()
         sleep(2)
         input_eamil = driver.find_element(By.ID,"email")
-        input_eamil.send_keys("mediumscraper@gmail.com")
+        input_eamil.send_keys("mediumscraper@outlook.com")
         sleep(2)
         click_on_continue = driver.find_element(By.CLASS_NAME , 'button--borderless')
         click_on_continue.click()

@@ -38,15 +38,13 @@ def read_email_for_login():
 
 
 
-
 def regex_and_find_link(link):
-    file_content_str = link.replace("\n", "").replace("\r", "").replace("3D", "")
-    # print(file_content_str)
+    file_content = str(link)
+    # print(file_content)
+    file_content_str = file_content.replace("\\n", "").replace("\\r", "").replace("3D", "")
     regex_pattern = "https://medium\.com/m/callback/email\?token=(\w+)=&operation=login&state=medium"
 
     result = re.search(regex_pattern, file_content_str)
-
-    # print(f"result : {result.group()}")
 
     result = result.group()
 
@@ -60,4 +58,4 @@ def regex_and_find_link(link):
             counter += 1
         result_str += char
         
-    print(f"result : {result_str}")
+    return result_str

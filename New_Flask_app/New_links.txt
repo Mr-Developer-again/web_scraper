@@ -1,0 +1,128 @@
+Creating a Score Counter===https://medium.com/@aidanhart321/creating-a-score-counter-34571f0b597c?source=tag_archive---------0-----------------------
+GitHub Webhook Implementation using C#===https://medium.com/@shahzaib.rasool786/github-webhook-implementation-using-c-ccff0ad6472a?source=tag_archive---------1-----------------------
+“yield” nədir?===https://medium.com/@qalibqurbanov/yield-n%C9%99dir-e9701214ae8f?source=tag_archive---------0-----------------------
+API VERSIONING STYLES===https://medium.com/@kamranzm94/api-versioning-styles-f4b41ed841f0?source=tag_archive---------1-----------------------
+Using The Foreach In C#===https://medium.com/@kenslearningcurve/using-the-foreach-in-c-160e61dbc464?source=tag_archive---------2-----------------------
+Properly using Switch Statements===https://medium.com/@aidanhart321/properly-using-switch-statements-37cefcd3158?source=tag_archive---------3-----------------------
+Bir ASP.NET Core API projesinden proje şablonu nasıl oluşturulur?===https://medium.com/@alihankuzucuk/bir-asp-net-core-api-projesinden-proje-%C5%9Fablonu-nas%C4%B1l-olu%C5%9Fturulur-8c8819287fc9?source=tag_archive---------4-----------------------
+How to Set and Retrieve Session Variables in .NET===https://blog.devgenius.io/how-to-set-and-retrieve-session-variables-in-net-5732867f0051?source=tag_archive---------5-----------------------
+4 Simple Steps to Create Thumbnail Images for Excel Documents in C#===https://medium.com/syncfusion/4-simple-steps-to-create-thumbnail-images-for-excel-documents-in-c-67fea8a40a04?source=tag_archive---------6-----------------------
+Creating Modular Powerup Systems!===https://medium.com/@demon.of.this/creating-modular-powerup-systems-7cb6216c3647?source=tag_archive---------7-----------------------
+Animating Sprites in Unity===https://medium.com/@JGonzL/animating-sprites-in-unity-67d22a96d8d9?source=tag_archive---------8-----------------------
+Explorando os Ciclos de Vida de Serviços no .NET Core: Mecanismos da Injeção de Dependência===https://medium.com/@marcofsjrr/explorando-os-ciclos-de-vida-de-servi%C3%A7os-no-net-core-mecanismos-da-inje%C3%A7%C3%A3o-de-depend%C3%AAncia-b4609d616d53?source=tag_archive---------0-----------------------
+CQRS Pattern C# ile Uygulamada===https://medium.com/@cenkerkumlucali0/cqrs-pattern-c-ile-uygulamada-594685da0ed6?source=tag_archive---------1-----------------------
+Top 10 Best Practices for Coding in C# — Improving Your Programming Skills===https://medium.com/double-pointer/top-10-best-practices-for-coding-in-c-improving-your-programming-skills-e8e8b9d821bf?source=tag_archive---------2-----------------------
+Creating a Speed Power Up===https://medium.com/@aidanhart321/creating-a-speed-power-up-a542cd8b831b?source=tag_archive---------3-----------------------
+Creating the Behavior of a Shield Power Up===https://medium.com/@aidanhart321/creating-the-behavior-of-a-shield-power-up-2d09b6a3f567?source=tag_archive---------4-----------------------
+Starting to Feel Like a Real Video Game!===https://medium.com/@JGonzL/starting-to-feel-like-a-real-video-game-6d59f246e251?source=tag_archive---------5-----------------------
+Starting to Feel Like a Real Video Game!===https://medium.com/@JGonzL/starting-to-feel-like-a-real-video-game-db8a2bacfcbb?source=tag_archive---------6-----------------------
+Grafana k6 and ASP.NET Core: A Practical Guide to Load & Stress Testing===https://levelup.gitconnected.com/grafana-k6-and-asp-net-core-a-practical-guide-to-load-stress-testing-8068e5b6c3cc?source=tag_archive---------0-----------------------
+Introducing IDisposableOf<T>: A New Design Pattern===https://itnext.io/introducing-idisposableof-t-a-new-design-pattern-e62aa4b2d7b0?source=tag_archive---------1-----------------------
+SignalR — Establish real-time web communication in .NET===https://levelup.gitconnected.com/signalr-establish-real-time-web-communication-in-net-74f538d57738?source=tag_archive---------2-----------------------
+Adapter Pattern Architecture— C#===https://medium.com/@martinstm/adapter-pattern-architecture-c-df862d43c974?source=tag_archive---------3-----------------------
+Instrumenting System.CommandLine-based .NET applications===https://medium.com/@asimmon/instrumenting-system-commandline-based-net-applications-6d910f91b8a8?source=tag_archive---------4-----------------------
+Using Entity Framework 6 + MySQL===https://medium.com/@jelleschrader/using-entity-framework-6-mysql-4778b99e980d?source=tag_archive---------5-----------------------
+Side Movement for Enemies===https://blog.devgenius.io/side-movement-for-enemies-2c5f4ed7bd4d?source=tag_archive---------6-----------------------
+C# Application Configuration Made Simple: Harnessing the Power of appsettings.json===https://medium.com/@mishraabhinn/c-application-configuration-made-simple-harnessing-the-power-of-appsettings-json-e0fc22324f10?source=tag_archive---------7-----------------------
+“Equals()” metodunun “==” operatorundan fərqi nədir? (+ “String Interning”)===https://medium.com/@qalibqurbanov/equals-metodunun-v%C9%99-operatorunun-f%C9%99rqi-n%C9%99dir-string-interning-eed6511d780?source=tag_archive---------0-----------------------
+.NET 7 && Entity Framework 7 With SQL Server Web API===https://medium.com/@iammanolov98/net-7-entity-framework-7-with-sql-server-web-api-c3bc74d7d4?source=tag_archive---------1-----------------------
+The best 5 .NET and ASP.NET courses for eCommerce developers===https://medium.com/@mwaseemzakir/the-best-5-net-and-asp-net-courses-for-ecommerce-developers-196be4ebd1fb?source=tag_archive---------2-----------------------
+Aspect Oriented Programming(AOP) with C# and Cross-Cutting Concerns===https://medium.com/@sonerpayci/aspect-oriented-programming-aop-with-c-and-cross-cutting-concerns-d4793ca6d5df?source=tag_archive---------3-----------------------
+Mastering S.O.L.I.D Principles in C#: Building Strong and Scalable Foundations for Your Code===https://levelup.gitconnected.com/mastering-s-o-l-i-d-principles-in-c-building-strong-and-scalable-foundations-for-your-code-152d84c80e4f?source=tag_archive---------4-----------------------
+Single and Triple Shots. ‘Starting to Feel Like a Real Video Game!’===https://medium.com/@marlenacmartin/variable-for-triple-shot-boolean-starting-to-feel-like-a-real-video-game-ecf558af6f8e?source=tag_archive---------5-----------------------
+Creating Modular Power up Systems===https://medium.com/@aidanhart321/creating-modular-power-up-systems-b101163e29ec?source=tag_archive---------6-----------------------
+Shield Strength | Unity Developer===https://medium.com/@derekanderson-dev/shield-strength-unity-developer-ae2e3b04dff0?source=tag_archive---------7-----------------------
+How to Decrypt AES Encrypted File in C#: A Step-by-Step Guide 📁🔑💻===https://medium.com/@nirav-parmar/how-to-decrypt-aes-encrypted-file-in-c-a-step-by-step-guide-fe2353998a8f?source=tag_archive---------0-----------------------
+.NET/.NET Core için uyarlanmış Temiz Kod kavramları — İsimlendirme===https://medium.com/@iamyasinkaya/net-net-core-i%C3%A7in-uyarlanm%C4%B1%C5%9F-temiz-kod-kavramlar%C4%B1-i%CC%87simlendirme-5d8b082e9bc6?source=tag_archive---------1-----------------------
+What is Cinemachine?===https://medium.com/@codingcoremd/what-is-cinemachine-5bfb52e254ee?source=tag_archive---------2-----------------------
+Creating the Triple Shot Power Up===https://medium.com/@aidanhart321/creating-the-triple-shot-power-up-ea6536e3a8eb?source=tag_archive---------3-----------------------
+What’s the Difference Between Conditional Compilation and the Conditional Attribute in C#?===https://itnext.io/whats-the-difference-between-conditional-compilation-and-the-conditional-attribute-in-c-1d5e1fee4b45?source=tag_archive---------0-----------------------
+.NET Minimal API — Setup a C# web server in 2 minutes===https://medium.com/c-sharp-progarmming/net-minimal-api-setup-a-c-web-server-in-2-minutes-e2077f69d3dd?source=tag_archive---------1-----------------------
+The Value of Unit Testing and Best Practices with xUnit and C#===https://medium.com/@mabroukmahdhi/the-value-of-unit-testing-and-best-practices-with-xunit-and-c-b9993ce09ea4?source=tag_archive---------2-----------------------
+Game Dev: Unity/C# — Exceptions and Try/Catches!===https://blog.devgenius.io/game-dev-unity-c-exceptions-and-try-catches-cc6bd941b3eb?source=tag_archive---------3-----------------------
+Dew Drop Weekly Newsletter #341 — Week ending July 28, 2023===https://medium.com/@alvinashcraft/dew-drop-weekly-newsletter-341-week-ending-july-28-2023-2c4555808268?source=tag_archive---------4-----------------------
+The obscure but common problem of zombie threads in .NET===https://medium.com/@todayamerican/the-obscure-but-common-problem-of-zombie-threads-in-net-388240cc875e?source=tag_archive---------5-----------------------
+From Prototype to Work of Art===https://medium.com/@demon.of.this/from-prototype-to-work-of-art-47403c82ce3a?source=tag_archive---------6-----------------------
+From Prototype to Work of Art===https://medium.com/@JGonzL/from-prototype-to-work-of-art-426b203be32a?source=tag_archive---------7-----------------------
+The Escape Button is a Feature | Unity Developer===https://medium.com/@derekanderson-dev/the-escape-button-is-a-feature-unity-developer-b071690305dc?source=tag_archive---------8-----------------------
+New Enemy: Part 2===https://medium.com/@scott.sourile/new-enemy-part-2-9d9970bb6d7d?source=tag_archive---------9-----------------------
+C# Veri Tipleri===https://medium.com/@azizyldz_65608/c-veri-tipleri-864caaa2e023?source=tag_archive---------10-----------------------
+ASP.NET Core Middleware: Working with Global Exception Handling===https://medium.com/@andytechdev/asp-net-core-middleware-working-with-global-exception-handling-446e9c6133bd?source=tag_archive---------0-----------------------
+How to Use Google PaLM API in C#===https://medium.com/@devedium/how-to-use-google-palm-api-in-c-a46cdd2bcfee?source=tag_archive---------1-----------------------
+Garbage Collection (+ Stack/Heap, Value/Reference types, Stack Frame and etc.)===https://medium.com/@qalibqurbanov/garbage-collection-stack-heap-value-reference-types-stack-frame-and-etc-caa560b47e5a?source=tag_archive---------2-----------------------
+How to Unit Test and Mock Services with Date and Time Logic===https://levelup.gitconnected.com/how-to-unit-test-and-mock-services-with-date-and-time-logic-fc8b11b2f297?source=tag_archive---------3-----------------------
+Unity 3D C# Scriptinizi Optimize Etmek===https://medium.com/@erdoganfatma119/unity-3d-c-scriptinizi-optimize-etmek-4a391481b911?source=tag_archive---------4-----------------------
+Spawning Objects in Unity without the Clutter===https://medium.com/@demon.of.this/spawning-objects-in-unity-without-the-clutter-56dd656eaad4?source=tag_archive---------5-----------------------
+7 New Features (or bug fixes🐛) You Might Have Missed in .NET 8===https://medium.com/bytehide/new-features-in-net-8-preview-6-bb07421e3d47?source=tag_archive---------0-----------------------
+Understanding Generics C# (Unity)===https://medium.com/@sonusprocks/understanding-generics-c-unity-f4920c31fc41?source=tag_archive---------1-----------------------
+Drag-and-Drop Adorners & Popups===https://medium.com/@bhprest/drag-and-drop-adorners-popups-8b6b04d2d3f?source=tag_archive---------2-----------------------
+C#/VB.NET - How to Copy or Move Worksheets===https://medium.com/@alexaae9/c-vb-net-how-to-copy-or-move-worksheets-42afdcb75b1a?source=tag_archive---------3-----------------------
+Coroutines with Unity===https://medium.com/@demon.of.this/coroutines-with-unity-13f524520a3c?source=tag_archive---------4-----------------------
+How To Implement CQRS with MediatR in ASP.NET Core===https://levelup.gitconnected.com/how-to-implement-cqrs-with-mediatr-in-asp-net-core-2fc66929b35c?source=tag_archive---------0-----------------------
+Socket exhaustion problem in .NET and how to solve it!===https://medium.com/c-sharp-progarmming/socket-exhaustion-problem-in-net-and-how-to-solve-it-92a186ddc628?source=tag_archive---------1-----------------------
+Data models: The design pattern no one’s need===https://medium.com/@mestredosmagros/data-models-the-design-pattern-no-ones-need-f79012ff9861?source=tag_archive---------2-----------------------
+How to publish a MAUI application locally (on your device)===https://medium.com/@kxmliebl/how-to-publish-a-maui-application-locally-on-your-device-79c0fbd12f7e?source=tag_archive---------3-----------------------
+Cartesian Explosion in EF Core===https://medium.com/@tepes_alexandru/cartesian-explosion-in-ef-core-4db960102118?source=tag_archive---------4-----------------------
+Use feature flags and observability tools for gradual database migration===https://medium.com/@featbit/use-of-feature-flags-and-observability-tools-for-gradual-and-safety-database-migration-73b155e20a2a?source=tag_archive---------5-----------------------
+Tuesday Coding Tips 07 — Exposing internal bits of .NET projects===https://medium.com/@nerudaj/tuesday-coding-tips-07-exposing-internal-bits-of-net-projects-d784777ded66?source=tag_archive---------6-----------------------
+StackAlloc in C#===https://medium.com/@mghanbari.maxa/stackalloc-in-c-2f351673778a?source=tag_archive---------7-----------------------
+Passing Parameters by Reference and using In/Out Parameter Modifiers===https://medium.com/womenintechnology/passing-parameters-by-reference-and-using-in-out-parameter-modifiers-842534ef2d97?source=tag_archive---------8-----------------------
+Exploring C# 11: A quick Look at Its New Features and Essential Tips===https://medium.com/@bernardin.houessou/exploring-c-11-a-quick-look-at-its-new-features-and-essential-tips-3a2308b11983?source=tag_archive---------9-----------------------
+Implementing Backgrounds and Sprites to Unity===https://medium.com/@aidanhart321/implementing-backgrounds-and-sprites-to-unity-f9affc208b3c?source=tag_archive---------10-----------------------
+Script Communication in Unity using GetComponent===https://medium.com/@demon.of.this/script-communication-in-unity-using-getcomponent-8743d09a9b2?source=tag_archive---------11-----------------------
+Authentication and Authorization Concept===https://medium.com/@ank33tch7/authentication-and-authorization-concept-d31a98a8986a?source=tag_archive---------12-----------------------
+Background Tasks and Scheduled Jobs in .NET? Meet Hangfire🔥===https://medium.com/bytehide/background-tasks-and-scheduled-jobs-in-net-meet-hangfire-6cbbaa52e2c8?source=tag_archive---------0-----------------------
+The (hidden) powers of C#-typing===https://medium.com/c-sharp-progarmming/the-hidden-powers-of-c-typing-4a38306660b7?source=tag_archive---------1-----------------------
+Implementing a custom Trigger for an Isolated .Net Azure Function===https://medium.com/@stefansch/implementing-a-custom-trigger-for-an-isolated-net-azure-function-b1bae628f570?source=tag_archive---------2-----------------------
+Camera Shake===https://blog.devgenius.io/camera-shake-ed17a220bafe?source=tag_archive---------3-----------------------
+2D Platformer: Double Tap to Roll===https://medium.com/@eveciana21/2d-platformer-double-tap-to-roll-88c9f3c7b28a?source=tag_archive---------4-----------------------
+Different Layers in .NET MAUI Maps===https://medium.com/@arunkani-a/different-layers-in-net-maui-maps-30fe67e3ad86?source=tag_archive---------5-----------------------
+OnCollisionEnter Vs. OnTriggerEnter When to use them?===https://medium.com/@demon.of.this/oncollisionenter-vs-ontriggerenter-when-to-use-them-423717ace33e?source=tag_archive---------6-----------------------
+AI-Powered .NET Core Apps: A Comprehensive Guide to OpenAI Integration===https://levelup.gitconnected.com/ai-powered-net-core-apps-a-comprehensive-guide-to-openai-integration-f24ae7ae55f0?source=tag_archive---------0-----------------------
+How to implement IComparable<T> in your classes in C# .NET7===https://levelup.gitconnected.com/how-to-implement-icomparable-t-in-your-custom-defined-classes-in-c-net7-3ff5581f973e?source=tag_archive---------1-----------------------
+Understanding Ahead-of-time (AOT) Compilation in C#===https://medium.com/@devedium/understanding-ahead-of-time-aot-compilation-in-c-8ac9e5db91f3?source=tag_archive---------2-----------------------
+Mastering C# Syntaxes, Variables, and Data Types 📝💻🔢===https://medium.com/@nirav-parmar/mastering-c-syntaxes-variables-and-data-types-88012b39c7af?source=tag_archive---------3-----------------------
+Generating Offmesh Links for Unity AI===https://medium.com/@Th3GameDev/generating-offmesh-links-for-unity-ai-8df2213b3bbc?source=tag_archive---------4-----------------------
+C# Programming Best Practices===https://medium.com/@shahedbd/c-programming-best-practices-671187482936?source=tag_archive---------5-----------------------
+Tek Boyutlu ve Çok Boyutlu Dizilerin Özellikleri ve Bellekte ki Durumları===https://medium.com/@ahmetfatih.guzeller/tek-boyutlu-ve-%C3%A7ok-boyutlu-dizilerin-%C3%B6zellikleri-ve-bellekte-ki-durumlar%C4%B1-ac80123a57c8?source=tag_archive---------6-----------------------
+Working with gRPC in dotnet===https://medium.com/c-sharp-progarmming/working-with-grpc-in-dotnet-86c80c1e7b3?source=tag_archive---------0-----------------------
+String Interpolation under the hood in C#===https://medium.com/@amrelsher07/string-interpolation-under-the-hood-6da8f3974b60?source=tag_archive---------1-----------------------
+C# Constructors and Their Types===https://medium.com/@vndpal/c-constructors-and-their-types-5365a5332fb1?source=tag_archive---------2-----------------------
+Creating Object Containers===https://medium.com/@aidanhart321/creating-object-containers-5eb17fd28a11?source=tag_archive---------3-----------------------
+For Döngüsü ile Programlamaya Adım Atmak===https://medium.com/@ahmetfatih.guzeller/for-d%C3%B6ng%C3%BCs%C3%BC-ile-programlamaya-ad%C4%B1m-atmak-e9fbba2a0ba3?source=tag_archive---------4-----------------------
+.Net Core ile Kubernetes’e Deployment Örneği===https://medium.com/@ozgurruzgar01/net-core-ile-kubernetese-deployment-%C3%B6rne%C4%9Fi-bb08955be8f8?source=tag_archive---------0-----------------------
+Coding Conventions and Naming Standards C# and SQL Server===https://medium.com/@shahriyarali08/coding-conventions-and-naming-standards-c-and-sql-server-ec101d002bf1?source=tag_archive---------1-----------------------
+Coroutines in Unity (How do they Work?)===https://medium.com/@aidanhart321/coroutines-in-unity-how-do-they-work-8ddc39b483d9?source=tag_archive---------2-----------------------
+Dew Drop Weekly Newsletter #340 — Week ending July 21, 2023===https://medium.com/@alvinashcraft/dew-drop-weekly-newsletter-340-week-ending-july-21-2023-a3bef6cfe063?source=tag_archive---------3-----------------------
+Using GetComponent in Unity for Script Communication===https://medium.com/@aidanhart321/using-getcomponent-in-unity-for-script-communication-dda4ebf0f091?source=tag_archive---------4-----------------------
+Virtualization in Blazor DataGrid Component===https://medium.com/@arunkani-a/virtualization-in-blazor-datagrid-component-8d0c58116d9b?source=tag_archive---------5-----------------------
+C# Exception Handling Interview Questions and Answers===https://medium.com/bytehide/csharp-exception-handling-interview-questions-152e9a92aad3?source=tag_archive---------0-----------------------
+What is Async Programming and How Does it Affect Unit Tests?===https://levelup.gitconnected.com/what-is-async-programming-and-how-does-it-affect-unit-tests-6a8e5c81311f?source=tag_archive---------1-----------------------
+“A 12 % improvement, easily obtained, is never considered marginal” — Donald Knuth===https://medium.com/@antao-almada/a-12-improvement-easily-obtained-is-never-considered-marginal-donald-knuth-da68ee1ce317?source=tag_archive---------2-----------------------
+How to Configure, Dockerize, and Deploy a .NET Core Application on Heroku from a Macbook with M1 Chip===https://levelup.gitconnected.com/how-to-configure-dockerize-and-deploy-a-net-core-application-on-heroku-from-a-mac-m1-machine-d09173560a4?source=tag_archive---------3-----------------------
+Introdução ao gRPC #Parte02===https://medium.com/@marcoslimadefatima/introdu%C3%A7%C3%A3o-ao-grpc-parte02-f0718ddb5cd9?source=tag_archive---------4-----------------------
+An Introduction to Unity Physics===https://medium.com/@aidanhart321/an-introduction-to-unity-physics-e6222a74b026?source=tag_archive---------5-----------------------
+Coroutines with Unity===https://medium.com/@JGonzL/coroutines-with-unity-2d28b7cb1fd8?source=tag_archive---------6-----------------------
+Deadlocks in C#: Understanding, Preventing, and Code Examples===https://medium.com/@alexanderdombrovskiy/deadlocks-in-c-understanding-preventing-and-code-examples-e1bc2a0dbda2?source=tag_archive---------0-----------------------
+C# ile ElasticSearch Kullanımı: Güçlü Arama ve Analitik Yetenekleriyle Veritabanı İşlemlerini İyileştirmek===https://medium.com/@sametuca/c-ile-elasticsearch-kullan%C4%B1m%C4%B1-g%C3%BC%C3%A7l%C3%BC-arama-ve-analitik-yetenekleriyle-veritaban%C4%B1-i%CC%87%C5%9Flemlerini-d3116ac4572d?source=tag_archive---------1-----------------------
+Simple PDF Generation in .NET===https://medium.com/@tepes_alexandru/simple-pdf-generation-in-net-c80ad26ec069?source=tag_archive---------2-----------------------
+Clone Unity Project to A Laptop===https://medium.com/@lanaelfstrom/clone-unity-project-to-your-laptop-746f8c91f4d2?source=tag_archive---------3-----------------------
+String VS StringBuilder===https://medium.com/@marcio.kgr/string-vs-stringbuilder-66a06b9878a7?source=tag_archive---------4-----------------------
+.NET + Design Patterns: +13 horas de vídeos gratuitos===https://medium.com/@renatogroffe/net-design-patterns-13-horas-de-v%C3%ADdeos-gratuitos-74aa2cc833d?source=tag_archive---------0-----------------------
+.NET Feature Management Powered by a Rest API===https://medium.com/@benburgecode/net-feature-management-powered-by-a-rest-api-ce4a5613becd?source=tag_archive---------1-----------------------
+Yeni Nesil C# 12 ve .NET 8 Özellikleri: Performans ve Verimlilikte Devrim Yaratıyor!===https://medium.com/@erkanguzelkucuk/yeni-nesil-c-12-ve-net-8-%C3%B6zellikleri-performans-ve-verimlilikte-devrim-yarat%C4%B1yor-eb6099f6ba34?source=tag_archive---------2-----------------------
+#Dicas — Mais de 65% de ganho em tempo de resposta===https://medium.com/@titaoyamamoto/dicas-mais-de-65-de-ganho-em-tempo-de-resposta-2ce1a3493654?source=tag_archive---------3-----------------------
+Building Telegram Bots with C#, .NET Framework, and the Telegram.Bot Library===https://medium.com/adessoturkey/building-telegram-bots-with-c-net-framework-and-the-telegram-bot-library-6fd466e29bee?source=tag_archive---------4-----------------------
+Convert HTML or HTML String to Word with C# and VB.NET===https://medium.com/@alice.yang_10652/convert-html-or-html-string-to-word-with-c-and-vb-net-6d8733a6a09?source=tag_archive---------5-----------------------
+Plus Minus===https://medium.com/@fuad.valiyev01/plus-minus-bc8d49477333?source=tag_archive---------6-----------------------
+Staircase===https://medium.com/@fuad.valiyev01/staircase-61416efbc8ea?source=tag_archive---------7-----------------------
+Examining suspicious code fragments in AWS SDK for .NET===https://medium.com/@sergvasiliev/examining-suspicious-code-fragments-in-aws-sdk-for-net-94ebca7622bf?source=tag_archive---------8-----------------------
+Time Conversion===https://medium.com/@fuad.valiyev01/time-conversion-c630e18c44b?source=tag_archive---------9-----------------------
+Mini-Max Sum===https://medium.com/@fuad.valiyev01/mini-max-sum-71876a153a99?source=tag_archive---------10-----------------------
+Birthday Cake Candles===https://medium.com/@fuad.valiyev01/birthday-cake-candles-fca7b7236b1e?source=tag_archive---------11-----------------------
+ASP.NET Core in .NET 8 continues to Reveal New Features! Too many features released?===https://medium.com/bytehide/asp-net-core-in-net-8-preview-5-features-ad3af929615d?source=tag_archive---------0-----------------------
+Boosting API Performance and Scalability: Best Practices for C# & ASP.NET Core Developers with Examples===https://medium.com/@mohamed-hendawy/boosting-api-performance-and-scalability-best-practices-for-c-asp-net-f2cb07992f01?source=tag_archive---------1-----------------------
+Enhancing Database Query Performance with Entity Framework Core: Real-world Examples and Performance Metrics===https://medium.com/@mohamed-hendawy/enhancing-database-query-performance-with-entity-framework-core-real-world-examples-and-3899f285e67c?source=tag_archive---------2-----------------------
+EF Core— da optimizasiyalar===https://medium.com/@jeyhung/ef-core-da-optimizasiyalar-3f9292cb7f60?source=tag_archive---------3-----------------------
+Speed Boost Time Limit and Cooldown Systems===https://blog.devgenius.io/speed-boost-time-limit-and-cooldown-systems-ec6640045e8?source=tag_archive---------4-----------------------
+Implicit / Explicit Dönüşümler===https://medium.com/@gamzekorkmazerdem/implicit-explicit-d%C3%B6n%C3%BC%C5%9F%C3%BCmler-4127dfb5c4f5?source=tag_archive---------5-----------------------
