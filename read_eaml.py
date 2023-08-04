@@ -1,4 +1,5 @@
 import imaplib
+import base64
 
 # IMAP server details for Outlook
 imap_server = 'outlook.office365.com'
@@ -18,22 +19,24 @@ imap.login(username, password)
 imap.select('INBOX')
 
 # Search for all emails in the mailbox
-status, response = imap.search(None, 'ALL')
+typ, message_numbers = imap.search(None, 'ALL')
 
 # Get a list of email IDs
-email_ids = response[0].split()
+email_ids = message_numbers[0].split()
 
 # Retrieve the latest email (in this case, the last email)
 latest_email_id = email_ids[-1]
 
 # Fetch the email data
-status, response = imap.fetch(latest_email_id, '(RFC822)')
+typ, data  = imap.fetch(latest_email_id, '(RFC822)')
+
 
 # The email data is returned as a tuple, where the actual email content is in the second element of the tuple
-email_data = response[0][1]
-
+email_data = data[0][1]
+print(f"this is data after fetch ===   {data}")
+data1 = base64.b64decode(data[0][1])
 # Print the email content
-print(email_data)
+print('Message %s\n%s\n' % (latest_email_id, data1))
 
 # Logout from your Outlook account
 imap.logout()
